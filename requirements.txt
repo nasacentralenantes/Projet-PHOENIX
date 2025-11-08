@@ -1,0 +1,5 @@
+# Dependencies for BMP280 project
+smbus2       # I2C communication library for Raspberry Pi
+
+# Note: The BMP280 library folder is included in this project.
+# This allows the example script to run without installing the library via pip.
